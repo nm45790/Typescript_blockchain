@@ -1,3 +1,3 @@
 This project is studied Typescript
 
-I made blockchain to the Typescript
+Created a blockchain with typescript
